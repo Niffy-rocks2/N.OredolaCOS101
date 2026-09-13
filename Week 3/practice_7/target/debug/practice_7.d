@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\N.oredolaCOS101\N.OredolaCOS101\Week\ 3\practice_7\target\debug\practice_7.exe: C:\Users\Administrator\Desktop\N.oredolaCOS101\N.OredolaCOS101\Week\ 3\practice_7\src\main.rs
